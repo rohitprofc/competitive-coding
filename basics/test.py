@@ -9,7 +9,7 @@ class hod:
         print("My Age is:",self.age)
         print("My Employee ID is:",self.empid)
 
-obj = hod('Rohit',45,1001)
+obj = hod('Rohit',18,1001)
 obj.info()
 
 # class student:
